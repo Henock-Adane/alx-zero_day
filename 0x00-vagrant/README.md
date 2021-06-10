@@ -1,0 +1,1 @@
+This is a repo for my first project prepared by [ALX](https://www.alxafrica.com/) for a *full stack engineer*
